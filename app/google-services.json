@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998985009539",
+    "firebase_url": "https://praktikum-takehome.firebaseio.com",
+    "project_id": "praktikum-takehome",
+    "storage_bucket": "praktikum-takehome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998985009539:android:bda8ae87249f46a0614eb6",
+        "android_client_info": {
+          "package_name": "com.example.android.pettts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998985009539-bjal1njelg1f3htjp0hgan9je0bpfo9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pettts",
+            "certificate_hash": "80044ea586272b9f7da147b7d726348c65d3fdc9"
+          }
+        },
+        {
+          "client_id": "998985009539-3rjnlc4qo26i5ds920rrmnmqr0a122m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63lS8jOcRCV3_7uuml4017MrXdvDl5L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998985009539-3rjnlc4qo26i5ds920rrmnmqr0a122m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
